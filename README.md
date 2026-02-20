@@ -14,8 +14,7 @@
  <h3>Sobre Mi </h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br> 
-
-✔ Soy estudiante de Ciencia de Datos y lo que podes encontar aca van a ser mis proyectos, puede haber mejoras en los codigos y si las vez me lo podes comentar
+✔ Soy estudiante de Ciencia de Datos y lo que podes encontar aca van a ser mis proyectos, puede haber mejoras en los codigos y si las vez me las podes comentar
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" 
