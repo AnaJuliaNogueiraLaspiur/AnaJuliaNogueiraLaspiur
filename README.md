@@ -70,7 +70,7 @@ puede haber mejoras en los codigos y si las vez me las podes comentar <br>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,github,py,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,discord,github,py,vscode,jupyter,&perline=14" />
   </a>
 </p>
 
