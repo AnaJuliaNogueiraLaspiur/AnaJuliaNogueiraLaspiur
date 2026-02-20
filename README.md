@@ -68,7 +68,7 @@ puede haber mejoras en los codigos y si las vez me las podes comentar <br>
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,discord,github,py,vscode,&perline=14" />
   </a>
