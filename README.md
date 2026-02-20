@@ -15,11 +15,13 @@
 
  <h3>Sobre Mi </h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<!--<br>  -->
+<br>
+<div align="left">
 ✔ Soy estudiante de ***Ciencia de Datos*** y lo que podes encontar aca van a ser mis proyectos, 
 puede haber mejoras en los codigos y si las vez me las podes comentar <br>
 ✔ Voy a ir mejorando el repositorio y va a estar en constante modificacion <br>
- 
+</div>
+
   
 <!-- OPCION LOGO despues
  <h3>Sobre Mi </h3>
