@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 <div align="left">
-Estoy en tercer año de la carrera de  <b>Ciencia de Datos</b> y en este espacio voy a compartir mis apuntes y proyectos. Puede haber errores o mejoras, así que cualquier corrección o duda es más que bienvenida. Valoro mucho los feedback para ver lo que se me pasó por alto y mas que nada porque me ayudan a mejorar la calidad de mis conocimientos. Asi que si vez algo que no te cierra no dudes en darme tu feedback. Podes contactarme por ananogueiraw@gmail.com <br>
+Estoy en tercer año de la carrera de  <b>Ciencia de Datos</b> .En este espacio voy a compartir mis apuntes y proyectos. Puede haber errores o mejoras, así que cualquier corrección o duda es más que bienvenida. Valoro mucho los feedback para ver lo que se me pasó por alto y mas que nada porque me ayudan a mejorar la calidad de mis conocimientos. Asi que si vez algo que no te cierra no dudes en darme tu feedback. Podes contactarme por ananogueiraw@gmail.com <br>
 </div>
 
 
