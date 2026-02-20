@@ -13,14 +13,16 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF69B4&size=50&center=true&vCenter=true&height=60&width=600&lines=AnaNogueira&duration=5000&pause=3000" alt="Title"></div>
 
- <h3>Sobre Mi </h3>
+ <h3>Sobre mí </h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 <div align="left">
-✔ Soy estudiante de <b>Ciencia de Datos</b> . Lo que podes encontar aca van a ser mis proyectos, puede haber mejoras en los codigos y si las vez me las podes comentar <br>
-✔ Voy a ir mejorando los repositorios y va a estar en constante modificacion <br>
+✔️ Buenas! Soy Ana, estudiante de <b>Ciencia de Datos</b> en la UNLP. <br>
+✔️ Me gusta aprender, experimentar y compartir proyectos que mezclen datos con creatividad. <br>
+✔️ Amo los desafíos y estoy siempre buscando mejorar mis repositorios. <br>
+✔️ Si encontrás algo para mejorar en mis códigos, me encantaría que me lo comentes!<br>
+✔️ Además de programar, disfruto el café, la música y los animales.  
 </div>
-
 
   
 <!-- OPCION LOGO despues
