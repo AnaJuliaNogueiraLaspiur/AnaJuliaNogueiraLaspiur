@@ -50,8 +50,27 @@ puede haber mejoras en los codigos y si las vez me las podes comentar <br>
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" 
 
+
+
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en"
 <br><br><br><br><br><br><br><br><br><br>
   -->
+
+
+
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Herramientas que manejo👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,discord,github,html,mysql,py,vscode,kubernetes&perline=14" />
+  </a>
+</p>
 
