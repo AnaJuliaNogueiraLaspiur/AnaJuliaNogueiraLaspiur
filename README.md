@@ -20,8 +20,8 @@
 ✔️ Buenas! Soy Ana, estudiante de <b>Ciencia de Datos</b> en la UNLP. <br>
 ✔️ Me gusta aprender, experimentar y compartir proyectos que mezclen datos con creatividad. <br>
 ✔️ Amo los desafíos y estoy siempre buscando mejorar mis repositorios. <br>
-✔️ Si encontrás algo para mejorar en mis códigos, me encantaría que me lo comentes!<br>
-✔️ Además de programar, disfruto el café, la música y los animales.  
+✔️ Si encontrás algo para mejorar en mis códigos, me encantaría que me lo comentes!<br>  
+✔️ Podés contactarme en ananogueiraw@gmail.com <br>
 </div>
 
   
@@ -31,6 +31,7 @@
 ✔ Soy estudiante de ***Ciencia de Datos*** y lo que podes encontar aca van a ser mis proyectos, 
 puede haber mejoras en los codigos y si las vez me las podes comentar <br>
 ✔ Voy a ir mejorando el repositorio y va a estar en constante modificacion <br
+✔️ Además de programar, disfruto el café, la música y los animales.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br> 
  -->
