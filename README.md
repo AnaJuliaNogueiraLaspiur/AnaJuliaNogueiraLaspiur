@@ -24,7 +24,7 @@
 
 ✔ Soy estudiante de ***Ciencia de Datos*** y lo que podes encontar aca van a ser mis proyectos, puede haber mejoras en los codigos y si las vez me las podes comentar <br>
 ✔ Voy a ir mejorando el repositorio y va a estar en constante modificacion <br
-<img align="right" alt="Coding" width="700" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br> 
 
 <!--
