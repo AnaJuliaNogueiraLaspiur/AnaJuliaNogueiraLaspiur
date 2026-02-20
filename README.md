@@ -63,14 +63,14 @@ puede haber mejoras en los codigos y si las vez me las podes comentar <br>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h2 style="display: inline-block">Herramientas que manejo👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,github,html,mysql,py,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,discord,github,py,vscode,&perline=14" />
   </a>
 </p>
 
