@@ -20,28 +20,12 @@
 ✔ Voy a ir mejorando el repositorio y va a estar en constante modificacion <br>
   -->
 
-<!-- OPCION LOGO ABAJO
  <h3>Sobre Mi </h3>
 
 ✔ Soy estudiante de ***Ciencia de Datos*** y lo que podes encontar aca van a ser mis proyectos, puede haber mejoras en los codigos y si las vez me las podes comentar <br>
 ✔ Voy a ir mejorando el repositorio y va a estar en constante modificacion <br
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br> 
- -->
- 
-<div style="display:flex; justify-content:space-between; align-items:center;">
-  <!-- Texto a la izquierda -->
-  <div style="flex:1; text-align:left;">
-    <h3>Sobre Mi</h3>
-    ✔ Soy estudiante de <b>Ciencia de Datos</b> y lo que podes encontrar acá van a ser mis proyectos, puede haber mejoras en los códigos y si las ves me las podes comentar <br>
-    ✔ Voy a ir mejorando el repositorio y va a estar en constante modificación <br>
-  </div>
-
-  <!-- Logo a la derecha -->
-  <div>
-    <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-  </div>
-</div>
 
 
 
