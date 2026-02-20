@@ -74,4 +74,6 @@ puede haber mejoras en los codigos y si las vez me las podes comentar <br>
   </a>
 </p>
 
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <br />
 
